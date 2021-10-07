@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="TextBox1.Text" xml:space="preserve">
-    <value>L'objectif de notre application est de pouvoir simplifier la vie des personnes atteintes de Trisomie 21 en milieu professionnel. Elle permettra à ces types de personne de pouvoir gérer leur planning comme ils le souhaitent en glissant les taches préconçues de la liste des taches sur un jour de la semaine dans le planning à n'importe quel moment de la journée.</value>
+    <value>L'objectif de notre application est de pouvoir simplifier la vie des personnes atteintes de trisomie 21 en milieu professionnel. Elle permettra à ces personnes de pouvoir gérer leur planning comme ils le souhaitent en glissant les tâches préconçues de la liste des tâches sur un jour de la semaine dans le planning à n'importe quel moment de la journée. Les tâches seront représentées par des icônes mais on pourra voir le détail de celle-ci en cliquant dessus. L'idée est de favoriser l'aspect visuel afin de rendre l'application plus simple d'utilisation et ludique pour la personne afin de la guider vers l'autonomie.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="PictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
