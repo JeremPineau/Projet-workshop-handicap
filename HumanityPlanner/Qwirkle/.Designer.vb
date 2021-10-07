@@ -50,7 +50,7 @@ Partial Class frPagemenu
         Me.boutonAppli.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.boutonAppli.BackColor = System.Drawing.Color.SeaGreen
+        Me.boutonAppli.BackColor = System.Drawing.Color.MediumSeaGreen
         Me.boutonAppli.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Bold)
         Me.boutonAppli.ForeColor = System.Drawing.SystemColors.ButtonHighlight
         Me.boutonAppli.Location = New System.Drawing.Point(387, 390)
@@ -58,7 +58,7 @@ Partial Class frPagemenu
         Me.boutonAppli.Name = "boutonAppli"
         Me.boutonAppli.Size = New System.Drawing.Size(312, 139)
         Me.boutonAppli.TabIndex = 3
-        Me.boutonAppli.Text = "Explications application"
+        Me.boutonAppli.Text = "Explications de l'application"
         Me.boutonAppli.UseVisualStyleBackColor = False
         '
         'quitter

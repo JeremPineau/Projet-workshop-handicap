@@ -95,9 +95,9 @@ Partial Class membres
         Me.Label3.Location = New System.Drawing.Point(162, 346)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(256, 31)
+        Me.Label3.Size = New System.Drawing.Size(263, 31)
         Me.Label3.TabIndex = 27
-        Me.Label3.Text = "- Geoffrey Lepinge"
+        Me.Label3.Text = "- Geoffrey Lepingle"
         '
         'Label4
         '

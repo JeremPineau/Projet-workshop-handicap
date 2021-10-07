@@ -87,7 +87,7 @@ Partial Class besoins
         Me.nbjoueur.Name = "nbjoueur"
         Me.nbjoueur.Size = New System.Drawing.Size(484, 26)
         Me.nbjoueur.TabIndex = 33
-        Me.nbjoueur.Text = "Besoins de la personne en milieu du travail :"
+        Me.nbjoueur.Text = "Besoins de la personne en milieu de travail :"
         '
         'Label1
         '
@@ -122,9 +122,9 @@ Partial Class besoins
         Me.Label3.Location = New System.Drawing.Point(51, 455)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(508, 26)
+        Me.Label3.Size = New System.Drawing.Size(574, 26)
         Me.Label3.TabIndex = 36
-        Me.Label3.Text = "- L’incitation du jeune à prendre des initiatives."
+        Me.Label3.Text = "- L’incitation de la personne à prendre des initiatives."
         '
         'Label4
         '
@@ -134,9 +134,9 @@ Partial Class besoins
         Me.Label4.Location = New System.Drawing.Point(51, 418)
         Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(339, 26)
+        Me.Label4.Size = New System.Drawing.Size(405, 26)
         Me.Label4.TabIndex = 37
-        Me.Label4.Text = "- L’accompagnement du jeune,"
+        Me.Label4.Text = "- L’accompagnement de la personne,"
         '
         'Label5
         '
@@ -191,6 +191,7 @@ Partial Class besoins
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1067, 553)
         Me.Controls.Add(Me.PictureBox3)
         Me.Controls.Add(Me.Label7)

@@ -91,7 +91,7 @@ Partial Class appli
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Bold)
         Me.Label3.ForeColor = System.Drawing.Color.SlateGray
-        Me.Label3.Location = New System.Drawing.Point(433, 233)
+        Me.Label3.Location = New System.Drawing.Point(432, 237)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(220, 29)
@@ -144,7 +144,7 @@ Partial Class appli
         Me.PictureBox3.TabIndex = 20
         Me.PictureBox3.TabStop = False
         '
-        'regles
+        'appli
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -161,7 +161,7 @@ Partial Class appli
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.quitter)
         Me.Margin = New System.Windows.Forms.Padding(4)
-        Me.Name = "regles"
+        Me.Name = "appli"
         Me.Text = "HumanityPlanner"
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
