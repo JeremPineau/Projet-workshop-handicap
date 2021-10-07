@@ -82,7 +82,7 @@ Partial Class besoins
         Me.nbjoueur.AutoSize = True
         Me.nbjoueur.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle))
         Me.nbjoueur.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.nbjoueur.Location = New System.Drawing.Point(61, 190)
+        Me.nbjoueur.Location = New System.Drawing.Point(41, 198)
         Me.nbjoueur.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.nbjoueur.Name = "nbjoueur"
         Me.nbjoueur.Size = New System.Drawing.Size(484, 26)
@@ -94,7 +94,7 @@ Partial Class besoins
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label1.Location = New System.Drawing.Point(77, 235)
+        Me.Label1.Location = New System.Drawing.Point(51, 235)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(950, 26)
@@ -107,7 +107,7 @@ Partial Class besoins
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label2.Location = New System.Drawing.Point(77, 270)
+        Me.Label2.Location = New System.Drawing.Point(51, 270)
         Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(240, 26)
@@ -119,7 +119,7 @@ Partial Class besoins
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label3.Location = New System.Drawing.Point(80, 463)
+        Me.Label3.Location = New System.Drawing.Point(51, 455)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(508, 26)
@@ -131,7 +131,7 @@ Partial Class besoins
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label4.Location = New System.Drawing.Point(79, 426)
+        Me.Label4.Location = New System.Drawing.Point(51, 418)
         Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(339, 26)
@@ -143,7 +143,7 @@ Partial Class besoins
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label5.Location = New System.Drawing.Point(78, 386)
+        Me.Label5.Location = New System.Drawing.Point(51, 381)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(923, 26)
@@ -156,7 +156,7 @@ Partial Class besoins
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label6.Location = New System.Drawing.Point(77, 346)
+        Me.Label6.Location = New System.Drawing.Point(51, 343)
         Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(654, 26)
@@ -168,7 +168,7 @@ Partial Class besoins
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.75!, System.Drawing.FontStyle.Bold)
         Me.Label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Label7.Location = New System.Drawing.Point(77, 306)
+        Me.Label7.Location = New System.Drawing.Point(51, 306)
         Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(364, 26)
